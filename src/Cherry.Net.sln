@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cherry.Net", "Cherry.Net.csproj", "{168E4F18-5B92-497C-A740-5E6E87A59C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claymore", "..\..\Claymore\Claymore\Claymore.csproj", "{5113CF07-F3A3-4038-8B12-C0C1F24946E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{168E4F18-5B92-497C-A740-5E6E87A59C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168E4F18-5B92-497C-A740-5E6E87A59C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168E4F18-5B92-497C-A740-5E6E87A59C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168E4F18-5B92-497C-A740-5E6E87A59C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5113CF07-F3A3-4038-8B12-C0C1F24946E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5113CF07-F3A3-4038-8B12-C0C1F24946E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5113CF07-F3A3-4038-8B12-C0C1F24946E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5113CF07-F3A3-4038-8B12-C0C1F24946E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24FC45B4-67BA-44C9-88CB-05423099208F}
+	EndGlobalSection
+EndGlobal
